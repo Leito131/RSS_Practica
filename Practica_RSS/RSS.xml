@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+	<channel>
+		<title>MIBLOG</title>
+			<link>XXXXX</link>
+			<description>Lorem Ipsum inacabados</description>
+		<item>
+			<title>PRIMER ARTÍCULO</title>
+			<link>http://cruasán.es/1</link>
+			<description>Lorem Ipsum</description>
+		</item>
+		<item>
+			<title>SEGUNDO ARTÍCULO</title>
+			<link>http://cruasán.es/2</link>
+			<description>Lorem Ipsum</description>
+		</item>	
+		<item>
+			<title>TERCER ARTÍCULO</title>
+			<link>http://cruasán.es/3</link>
+			<description>Lorem Ipsum</description>
+		</item>
+	</channel>
+</rss>	
